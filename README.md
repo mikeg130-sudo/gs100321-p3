@@ -1,0 +1,2 @@
+# gs100321-p3
+Repositorio para alojar parcial 3 de ANALIZANDO LAS NECESIDADES DE HARDWARE Y SOFTWARE
